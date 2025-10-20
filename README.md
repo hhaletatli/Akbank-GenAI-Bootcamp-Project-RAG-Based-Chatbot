@@ -1,1 +1,1 @@
-# h-genai-bootcamp-projesi
+#Akbank GenAI Bootcamp Projesi: RAG Temelli Chatbot
