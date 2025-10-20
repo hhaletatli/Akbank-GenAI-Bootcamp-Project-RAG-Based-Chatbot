@@ -1,1 +1,22 @@
+# --- RAG Çekirdek Kütüphaneleri ---
+langchain==0.2.1               # Ana RAG framework'ü
+langchain-core==0.2.1          # LangChain'in temel yapıları
+langchain-community==0.2.1     # Çeşitli 3. parti entegrasyonlar (Loader'lar vb.)
 
+# --- Google Gemini Entegrasyonu ---
+google-genai==0.16.0           # Google'ın resmi Gemini Python SDK'sı
+langchain-google-genai==0.1.1  # LangChain ile Gemini'ı bağlayan kütüphane
+
+# --- Veri İşleme ve Vektör Veri Tabanı ---
+chromadb==0.5.0                # Vektör Veri Tabanınız
+pypdf==4.2.0                   # PDF dosyalarını okuyarak metin çıkarmak için (PyPDFLoader için gerekli)
+
+# --- Web Arayüzü (Streamlit) ---
+streamlit==1.35.0              # Web arayüzünü oluşturmak ve yayınlamak için (5. Adım gerekliliği)
+
+# --- Diğer Yardımcı Araçlar ---
+tiktoken                       # LLM'lerin token sayısını yönetmek için (Genellikle LangChain tarafından kullanılır)
+
+
+
+pip install -r requirements.txt
