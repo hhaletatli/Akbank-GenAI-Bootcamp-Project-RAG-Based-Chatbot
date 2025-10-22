@@ -1,4 +1,4 @@
-🦉🔍RAG Temelli Türkiye Yaban Hayatı Araştırma Asistanı
+#🦉🔍RAG Temelli Türkiye Yaban Hayatı Araştırma Asistanı
 Generative AI 101 Bootcamp için hazırlanmış Türkçe RAG (Retrieval-Augmented Generation) tabanlı chatbot projesi.
 📋1.Proje Hakkında
 Bu proje,Türkiye'deki nesli tehlike altındaki hayvan türleri ve kritik ekosistemler hakkında sorular sorabileceğiniz bir yapay zeka asistanı oluşturur. Özel olarak toplanmış zooloji ve koruma raporlarından oluşan bilgi kümesini kullanarak, kullanıcıların sorularına ilgili metinlerden bilgi çekerek doğru ve detaylı yanıtlar verir.
